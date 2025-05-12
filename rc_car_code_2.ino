@@ -1,6 +1,6 @@
 ;
 /*
- * Acknowledgment: this code was modified by me (Yousef) to work for my project, but original found on the internet
+ * Acknowledgment: this code was modified by me (Yousef) to work for my project, but originally found on the internet
  * Project: SMARTPHONE CONTROLLED BLUETOOTH RACING CAR
  */
  
